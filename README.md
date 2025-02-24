@@ -1,1 +1,1 @@
-# vendas_supermercadorrrrtr
+# vendas_supermercado
