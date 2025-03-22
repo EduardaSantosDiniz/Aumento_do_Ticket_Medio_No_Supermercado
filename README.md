@@ -12,5 +12,5 @@ Qual a sazonalidade das vendas e como aproveitar isso para aumentar o ticket mé
   
  
 
-
+ 
 
