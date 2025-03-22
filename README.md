@@ -9,7 +9,7 @@ Qual é a relação entre método de pagamento e valor gasto? (Por exemplo, clie
 Qual a sazonalidade das vendas e como aproveitar isso para aumentar o ticket médio?
    
       
-
+ 
 
 
 
