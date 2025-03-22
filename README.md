@@ -8,4 +8,4 @@ Quais produtos são frequentemente comprados juntos? (Para sugerir combos e estr
 Qual é a relação entre método de pagamento e valor gasto? (Por exemplo, clientes que pagam com cartão de crédito gastam mais?)
 Qual a sazonalidade das vendas e como aproveitar isso para aumentar o ticket médio?
    
-    
+     
