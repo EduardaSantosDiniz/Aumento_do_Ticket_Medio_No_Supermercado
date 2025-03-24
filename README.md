@@ -42,6 +42,10 @@ Nesse momento nós entramos de cabeça no negócio (independente do que seja), a
 
 **Vamos responder nossa primeira pergunta: Qual é a cada categoria que mais vende produtos?**
 
+Usando python, eu pedi pra ele contar quantas vezes cada categoria aparece, somar por categoria e fazer um gráfico. 
+
+Simples assim...
+
 ![{78FEA79C-4314-4BBA-A4DF-559D48886843}](https://github.com/user-attachments/assets/0c6e1890-b5c7-4e7d-ad4f-54f4197650eb)
 
 
@@ -53,10 +57,16 @@ Olhando o resultado aparentemente é o Acessórios de moda, porém como a nossa 
 ![{71528EDA-6EAE-49E4-836B-E5A3424BFBB8}](https://github.com/user-attachments/assets/17fd66a0-bd09-41b1-811a-538cb18f4235)
 
 
+É um erro bobo que podemos cometer se pularmos a etapa de entender a base de dados, como os dados se comunicam, como eles funcionam...
 
 
+**Segunda pergunta: Qual o perfil dos clientes (por exemplo, tipo, sexo, localização) que mais compram?**
 
 
+Para responder essa pergunta temos que agrupar as diferentes combinações que existem dos clientes, e logo depois disso verificar qual compram mais em valor total de compra.
+
+
+![{5DAD0510-4FF2-4711-9305-97D664F0E31F}](https://github.com/user-attachments/assets/695e3681-59d3-4687-8b72-cf523c6f2859)
 
 
 
