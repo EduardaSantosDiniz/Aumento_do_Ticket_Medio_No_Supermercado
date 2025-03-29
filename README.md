@@ -92,50 +92,43 @@ Para reponder essa pergunta vamos agrupar os tipos de cliente por categorias de 
 # 3️⃣ Análise dos Insight e Resolução do Problema
 O principal desafio a ser solucionado é o aumento do ticket médio. Esse é um problema específico para cada cliente e envolve até mesmo aspectos científicos, pois exige a previsão dos comportamentos e decisões do consumidor. Ao antecipar esses passos, podemos influenciá-lo estrategicamente para aumentar seus gastos de forma natural e planejada.
 
-Como aumentar o ticket médio?
+# Como aumentar o ticket médio?
 
-Organizando estrategicamente a prateleira de acordo com a frequência que os produtos saem
+- Organizando estrategicamente a prateleira de acordo com a frequência que os produtos saem
 
-Promoção dessas combinações
+- Promoção dessas combinações
 
-Organizar a prateleira com produtos mais caros com uma pequena diferença de preço
+- Organizar a prateleira com produtos mais caros com uma pequena diferença de preço
 
 entre outros...
 
-Organizando estrategicamente a prateleira de acordo com a frequência que os produtos saem
+### Organizando estrategicamente a prateleira de acordo com a frequência que os produtos saem
 De acordo com o gráfico de frequência de compras, podemos observar que quatro categorias de produtos se destacam em janeiro. Que tal colocá-las no mesmo corredor ou até mesmo na mesma prateleira?
 
 Esses pequenos detalhes podem influenciar diretamente o comportamento de compra e contribuir para o aumento do ticket médio dos clientes.
 
 O próximo passo seria realizar testes para verificar se essa estratégia realmente aumenta o ticket médio. Caso contrário, novas análises seriam feitas para buscar outras soluções.
 
-Promoção dessas combinações
+### Promoção dessas combinações
 Outro ponto a ser considerado é a promoção dessas combinações. Com a organização das prateleiras de acordo com a frequência de compras, seria importante analisar quais produtos dessas categorias têm maior saída. A partir disso, poderiam ser feitas promoções direcionadas para esses produtos, testando se o aumento nas vendas contribui para um aumento ainda maior no ticket médio.
 
-Organizar a prateleira com produtos mais caros com uma pequena diferença de preço
+### Organizar a prateleira com produtos mais caros com uma pequena diferença de preço
 Uma estratégia interessante seria aumentar o preço dos produtos de valor médio, de forma a reduzir a diferença entre esses e os produtos de maior valor. Ao fazer isso, os clientes perceberiam que a diferença de preço entre um produto de valor médio e um de maior qualidade e preço é pequena. Esse cenário pode levá-los a optar pelo produto de maior valor, já que a diferença financeira não é tão significativa. Dessa forma, o mercado aproveita para aumentar o ticket médio, incentivando os consumidores a escolherem opções de maior valor por um custo marginalmente maior.
 
-#4️⃣ Avaliação e Interpretação dos Resultados
+# 4️⃣ Avaliação e Interpretação dos Resultados
 Nessa etapa, as soluções previstas seriam analisadas para verificar se atingiram o resultado esperado pelo dono do mercado. Como se trata de um projeto de estudo e não uma implementação prática, infelizmente não poderemos seguir adiante. No entanto, o objetivo principal foi alcançado: a prática do pensamento crítico, bem como o desenvolvimento de habilidades na linguagem Python e suas bibliotecas. Esse exercício contribuiu significativamente para o aprendizado e aprimoramento de habilidades analíticas e técnicas.
 
-Percebeu o quanto é importante usar os dados para tomar decisões?
+### Percebeu o quanto é importante usar os dados para tomar decisões?
 Se gostou desse projeto que fiz, e gostaria de tirar uma dúvida ou algum conselho/feedback. Me mande mensagem em uma das minhas redes:
 
-image.png eduardafaculdade0306@gmail.com
-image.png https://www.linkedin.com/in/eduarda-diniz-24a275272/
+Email: eduardafaculdade0306@gmail.com
+
+Linkedin: https://www.linkedin.com/in/eduarda-diniz-24a275272/
 
 
 
 
-
-
-
-
-
-
-
-
- Base de dados foi retirada do site Kaggle, link: https://www.kaggle.com/datasets/hosammhmdali/supermarket-sales
+**Base de dados foi retirada do site Kaggle, link: https://www.kaggle.com/datasets/hosammhmdali/supermarket-sales**
 
       
   
