@@ -1,4 +1,4 @@
-# Como aumentr o ticket médio de um supermercado de acordo com os dados?
+# Como aumentar o ticket médio de um supermercado de acordo com os dados?
 # 1️⃣Definição do Problema
 Esse projeto é baseado em um supermercado varejista, o próposito inicial é descobrir como aumentar o ticket médio de um supermercado mas também responder 7 perguntas que nos foi proposto.
   
@@ -82,11 +82,11 @@ Para responder temos que separar por categoria e por mês, depois disso vamos ve
 Essa pergunta não tem como responder com a base de dados que foi fornecida, nesse caso a ideia seria marcar uma reunião com o responsável do estabelecimento e informá-lo que o percentual do lucro deve ser informado para cada categoria.
 
 **Sexta pergunta: Qual o perfil de cliente que mais compra determinado produto?**
-Para reponder essa pergunta vamos agrupar os tipos de cliente por categorias de produtos
+Para responder essa pergunta vamos agrupar os tipos de cliente por categorias de produtos
 
 ![{574620C3-5D4D-4051-B5DB-62FAE4FA97D2}](https://github.com/user-attachments/assets/c390f37a-6304-4459-bca5-c54471f28ffe)
 
-**Sétima pergunta:Qual é a frequência de compras dos clientes?**
+**Sétima pergunta: Qual é a frequência de compras dos clientes?**
 ![{28216602-DB35-4BAF-B5A3-0F14399369E8}](https://github.com/user-attachments/assets/4701d72c-10ed-4e0f-a167-f9b3e328d1d7)
 
 # 3️⃣ Análise dos Insight e Resolução do Problema
