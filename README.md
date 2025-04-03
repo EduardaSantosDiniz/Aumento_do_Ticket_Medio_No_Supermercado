@@ -52,7 +52,7 @@ Simples assim...
 
 Olhando o resultado aparentemente é o Acessórios de moda, porém como a nossa base de dados divide por cliente, provavelmente este dado está errado devido a possibilidade de um cliente comprar 10 produtos de uma mesma categoria e ter o mesmo peso de um cliente que comprou apenas um.
 
-**Para respondermos a resposta de forma correta, temos que somar a quantidade vendida por categoria.**
+**Para respondermos a resposta de forma correta, temos que somar a quantidade vendida por categoria.** 
 
 ![{71528EDA-6EAE-49E4-836B-E5A3424BFBB8}](https://github.com/user-attachments/assets/17fd66a0-bd09-41b1-811a-538cb18f4235)
 
