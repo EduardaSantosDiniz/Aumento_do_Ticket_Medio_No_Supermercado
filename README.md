@@ -4,7 +4,7 @@ Esse projeto é baseado em um supermercado varejista, o próposito inicial é de
 
 As perguntas foram:              
         
--Qual o perfil de cliente que mais compra determinado produto?
+-Qual o perfil de cliente que mais compra determinado produto? 
   
 -Qual é a cada categoria que mais vende produtos?
   
