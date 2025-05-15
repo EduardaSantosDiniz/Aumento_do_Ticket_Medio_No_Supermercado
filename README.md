@@ -25,7 +25,7 @@ As perguntas foram:
 # 2️⃣Limpeza e Preparação dos Dados
 
 Como estava a base de dados:
-
+ 
 ![{82087AEB-DFFA-476A-BD04-EE4F512E067B}](https://github.com/user-attachments/assets/8f4bbc0a-8ae2-4aee-9fa7-ff023eca602a)
 
 Depois da limpeza e preparação:
