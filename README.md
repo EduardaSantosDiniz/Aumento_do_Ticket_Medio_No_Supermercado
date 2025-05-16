@@ -16,7 +16,7 @@ As perguntas foram:
 -Qual o perfil dos clientes (por exemplo, idade, sexo, localização) que mais compram?NAO RESPODIDO
 
 -Quais clientes compram produtos de maior valor?
-
+ 
 -Qual é a frequência de compras dos clientes?
 
 
