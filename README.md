@@ -17,7 +17,7 @@ As perguntas foram:
 
 -Quais clientes compram produtos de maior valor?
  
--Qual é a frequência de compras dos clientes?
+-Qual é a frequência de compras dos clientes? 
 
 
 **Nesse momento temos que verificar as 7 perguntas usando a ordem ao nosso favor, como a resposta de uma pergunta depende da outra, é importante saber por onde começar.**
