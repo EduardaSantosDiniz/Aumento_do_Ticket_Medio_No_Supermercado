@@ -13,7 +13,7 @@ As perguntas foram:
  
 -Quais produtos têm maior margem de lucro? 
 
--Qual o perfil dos clientes (por exemplo, idade, sexo, localização) que mais compram?NAO RESPODIDO
+-Qual o perfil dos clientes (por exemplo, idade, sexo, localização) que mais compram?
 
 -Quais clientes compram produtos de maior valor?
  
