@@ -3,7 +3,7 @@
 Esse projeto é baseado em um supermercado varejista, o próposito inicial é descobrir como aumentar o ticket médio de um supermercado mas também responder 7 perguntas que nos foi proposto.
            
 As perguntas foram:                       
-                
+                 
                  
 -Qual o perfil de cliente que mais compra determinado produto?       
         
