@@ -10,7 +10,7 @@ As perguntas foram:
 -Qual é a cada categoria que mais vende produtos?       
     
 -Qual é a sazonalidade das vendas? (Produtos que vendem mais em determinadas épocas do ano)  
- 
+  
 -Quais produtos têm maior margem de lucro? 
  
 -Qual o perfil dos clientes (por exemplo, idade, sexo, localização) que mais compram?
