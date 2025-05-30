@@ -1,7 +1,7 @@
 # Como aumentar o ticket médio de um supermercado de acordo com os dados?
 # 1️⃣Definição do Problema  
 Esse projeto é baseado em um supermercado varejista, o próposito inicial é descobrir como aumentar o ticket médio de um supermercado mas também responder 7 perguntas que nos foi proposto. 
-            
+             
 As perguntas foram:                         
                      
                     
