@@ -2,7 +2,7 @@
 # 1️⃣Definição do Problema   
 Esse projeto é baseado em um supermercado varejista, o proprósito inicial é descobrir como aumentar o ticket médio de um supermercado mas também responder às 7 perguntas que nos foram propostas. 
               
-As perguntas foram:                                        
+As perguntas foram:                                         
    
                            
                          
