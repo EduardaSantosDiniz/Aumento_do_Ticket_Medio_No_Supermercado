@@ -7,7 +7,7 @@ As perguntas foram:
                               
                            
 -Qual o perfil de cliente que mais compra determinado produto?              
-           
+            
 -Qual é a categoria que mais vende produtos?             
      
 -Qual é a sazonalidade das vendas?  
