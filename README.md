@@ -10,7 +10,7 @@ As perguntas foram:
            
 -Qual é a categoria que mais vende produtos?             
      
--Qual é a sazonalidade das vendas? 
+-Qual é a sazonalidade das vendas?  
    
 -Quais produtos têm maior margem de lucro?  
  
