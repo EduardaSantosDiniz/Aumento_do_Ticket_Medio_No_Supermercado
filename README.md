@@ -12,7 +12,7 @@ As perguntas foram:
 
 -Qual é a sazonalidade das vendas?    
      
--Quais produtos têm maior margem de lucro?   
+-Quais produtos têm maior margem de lucro?    
   
 -Qual o perfil dos clientes que mais compram?
 
