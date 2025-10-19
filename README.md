@@ -1,19 +1,19 @@
  # Como aumentar o ticket médio de um supermercado de acordo com os dados?    
-# 1️⃣Definição do Problema       
+# 1️⃣Definição do Problema      
 Esse projeto é baseado em um supermercado varejista, o proprósito inicial é descobrir como aumentar o ticket médio de um supermercado mas também responder às 7 perguntas que nos foram propostas.  
-                           
-As perguntas foram:                                                           
-                              
-                                                
-                                     
--Qual o perfil de cliente que mais compra determinado produto?                  
-              
--Qual é a categoria que mais vende produtos?               
+                         
+As perguntas foram:                                                        
+                         
+                                            
+                                
+-Qual o perfil de cliente que mais compra determinado produto?                 
+            
+-Qual é a categoria que mais vende produtos?             
 
 -Qual é a sazonalidade das vendas?    
      
--Quais produtos têm maior margem de lucro?    
-  
+-Quais produtos têm maior margem de lucro?   
+ 
 -Qual o perfil dos clientes que mais compram?
 
 -Quais clientes compram produtos de maior valor?
