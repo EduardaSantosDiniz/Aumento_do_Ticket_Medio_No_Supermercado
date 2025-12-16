@@ -4,7 +4,7 @@ Esse projeto é baseado em um supermercado varejista, o proprósito inicial é d
                              
 As perguntas foram:                                                              
       
-     
+      
                                                   
                                     
 -Qual o perfil de cliente que mais compra determinado produto?                   
