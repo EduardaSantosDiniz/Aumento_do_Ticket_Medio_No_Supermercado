@@ -6,7 +6,7 @@ As perguntas foram:
          
       
                                                   c
-                                    
+                                     
 -Qual o perfil de cliente que mais compra determinado produto?                   
                
 -Qual é a categoria que mais vende produtos?              
